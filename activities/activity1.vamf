@@ -1,11 +1,11 @@
 {
-   "name":"Custom Activity 1",
-   "shortDescription": "Test Activity on eduard-repo in master branch",
+   "name":"Activity 1 - Repo 2",
+   "shortDescription": "Test Activity on eduard-repo2 in master branch",
    "icon":"",
-   "descriptionMarkdown":"UpgradeActivity.md",
+   "descriptionMarkdown":"Activity1.md",
    "topology": [
 {
-      "name": "UpgradeTopology_PC",
+      "name": "Topology 3",
       "actionTitle":"Reserve",
       "description": "Create an immediate reservation on the topology",
       "reservationDuration":""
